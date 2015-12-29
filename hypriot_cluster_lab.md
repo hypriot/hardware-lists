@@ -10,5 +10,5 @@ Please feel free to update this list!
 | DLINK             | DGS-108/E              | yes                                    | [@firecyberice](https://twitter.com/firecyberice)        |
 | Buffalo           | WZR-AGL-300NH          | no                                     | [@MathiasRenner](https://twitter.com/MathiasRenner)      |
 | HP                | PS1810-8G              | yes, but requires proper configuration | [@BOK](https://twitter.com/BOK)                          |
-| Conrad/Netgear    | 8-Port Ethernet Switch | yes         | [jmMeessen]()             |                                                         |
+| Conrad/Netgear    | 8-Port Ethernet Switch | yes         | [@JM_Meessen](https://twitter.com/JM_Meessen)             |                                                         |
 | Ubiquiti Networks | EdgeRouter ER-X        | yes         | [@mkh1973](https://twitter.com/mkh1973)             |                                                         |
